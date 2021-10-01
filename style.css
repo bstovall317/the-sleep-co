@@ -165,6 +165,16 @@ footer a {
     background-image: url('/images/the-sleep-co-yellow.jpg');
     background-position: 50% 60%;
 }
+
+/* Buttons and Forms */
+
+input,
+textarea {
+    Width: 100%;
+    display: block;
+}
+
+
 /* Icon Grid */
 .fas {
     display: block;
